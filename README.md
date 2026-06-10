@@ -1,5 +1,8 @@
 # MGSmartFlow
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mgsmartflow
+
 MGSmartFlow é um **layout customizado para Fyne** que facilita a criação de interfaces dinâmicas baseadas em **linhas e colunas**, com controle inteligente de espaçamento, redimensionamento e posicionamento de widgets.
 
 Ele foi projetado para simplificar layouts complexos sem depender apenas dos layouts padrões do Fyne.
