@@ -1,9 +1,6 @@
 # MGSmartFlow
 
-<!-- Badge opcional para deixar claro visualmente -->
-![Status](https://img.shields.io/badge/status-arquivado--archived-red.svg)
-
-> **Aviso importante:** Esta biblioteca foi **oficialmente arquivada** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
+[![License](https://img.shields.io/badge/license-PolyForm%20Perimeter%201.0.0-5351FB)](LICENSE.md)
 
 MGSmartFlow é um **layout customizado para Fyne** que facilita a criação de interfaces dinâmicas baseadas em **linhas e colunas**, com controle inteligente de espaçamento, redimensionamento e posicionamento de widgets.
 
@@ -25,7 +22,7 @@ Ele foi projetado para simplificar layouts complexos sem depender apenas dos lay
 ## 📦 Instalação
 
 ```bash
-go get github.com/mugomes/mgsmartflow
+go get github.com/profmugomes/mgsmartflow
 ```
 
 ---
@@ -83,23 +80,10 @@ flow.GlobalGap(10, 10)
 
 ---
 
-## ⚠️ Funções Depreciadas
-
-As funções abaixo ainda funcionam, mas foram mantidas apenas por compatibilidade:
-
-* `SetResize` → use `Resize`
-* `SetMove` → use `Move`
-* `SetGap` → use `Gap`
-* `SetGlobalGap` → use `GlobalGap`
-
-Essas funções serão removidas na versão 1.2.0
-
----
-
 ## 🧩 Compatibilidade
 
-* Go 1.25.5+
-* Fyne 2.7.1
+* Go 1.26.5+
+* Fyne 2.8.0
 
 ---
 
@@ -107,16 +91,34 @@ Essas funções serão removidas na versão 1.2.0
 
 **Murilo Gomes Julio**
 
-🔗 [https://mugomes.github.io](https://mugomes.github.io)
+🔗 [https://www.profmugomes.com.br](https://www.profmugomes.com.br)
 
-📺 [https://youtube.com/@mugomesoficial](https://youtube.com/@mugomesoficial)
+📺 [https://youtube.com/@profmugomes](https://youtube.com/@profmugomes)
 
 ---
 
 ## License
 
-Copyright (c) 2025-2026 Murilo Gomes Julio
+Copyright (c) 2025-2026 Murilo Gomes Julio. All Rights Reserved.
 
-Licensed under the [MIT](https://github.com/mugomes/mgsmartflow/blob/main/LICENSE) license.
+This project is licensed under the PolyForm Perimeter License 1.0.0.
 
-All contributions to the MGSmartFlow are subject to this license.
+### Summary
+
+This software is available for commercial and noncommercial use, subject to the terms of the PolyForm Perimeter License 1.0.0.
+
+You may:
+
+* ✔ Use the software for commercial and noncommercial purposes.
+* ✔ Inspect and study the source code.
+* ✔ Modify the software.
+* ✔ Create derivative works based on the software.
+* ✔ Redistribute the software and permitted modifications.
+
+You may not:
+
+* ✖ Provide a product that competes with the software.
+
+See the full license terms at LICENSE.md.
+
+This summary is provided for convenience only and does not replace or modify the full license terms.
