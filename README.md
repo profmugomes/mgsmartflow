@@ -101,11 +101,11 @@ flow.GlobalGap(10, 10)
 
 Copyright (c) 2025-2026 Murilo Gomes Julio. All Rights Reserved.
 
-This project is licensed under the PolyForm Perimeter License 1.0.0.
+This project is licensed under the PolyForm Perimeter License 1.0.1.
 
 ### Summary
 
-This software is available for commercial and noncommercial use, subject to the terms of the PolyForm Perimeter License 1.0.0.
+This software is available for commercial and noncommercial use, subject to the terms of the PolyForm Perimeter License 1.0.1.
 
 You may:
 
