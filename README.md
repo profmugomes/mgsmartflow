@@ -1,6 +1,6 @@
 # MGSmartFlow
 
-[![License](https://img.shields.io/badge/license-PolyForm%20Perimeter%201.0.0-5351FB)](LICENSE.md)
+[![License](https://img.shields.io/badge/license-PolyForm%20Perimeter%201.0.1-5351FB)](LICENSE.md)
 
 MGSmartFlow é um **layout customizado para Fyne** que facilita a criação de interfaces dinâmicas baseadas em **linhas e colunas**, com controle inteligente de espaçamento, redimensionamento e posicionamento de widgets.
 
@@ -22,7 +22,7 @@ Ele foi projetado para simplificar layouts complexos sem depender apenas dos lay
 ## 📦 Instalação
 
 ```bash
-go get github.com/profmugomes/mgsmartflow
+go get github.com/mugomes/mgsmartflow
 ```
 
 ---
@@ -82,14 +82,14 @@ flow.GlobalGap(10, 10)
 
 ## 🧩 Compatibilidade
 
-* Go 1.26.5+
+* Go 1.27.2+
 * Fyne 2.8.0
 
 ---
 
 ## 👤 Autor
 
-**Murilo Gomes Julio**
+**Murilo Gomes**
 
 🔗 [https://www.profmugomes.com.br](https://www.profmugomes.com.br)
 
@@ -99,9 +99,7 @@ flow.GlobalGap(10, 10)
 
 ## License
 
-Copyright (c) 2025-2026 Murilo Gomes Julio. All Rights Reserved.
-
-This project is licensed under the PolyForm Perimeter License 1.0.1.
+Copyright (c) 2025-2026 Murilo Gomes <profmugomes.com.br>. All Rights Reserved.
 
 ### Summary
 
