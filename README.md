@@ -1,6 +1,6 @@
 # MGSmartFlow
 
-[![License](https://img.shields.io/badge/license-PolyForm%20Perimeter%201.0.1-5351FB)](LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT-5351FB)](LICENSE.md)
 
 MGSmartFlow é um **layout customizado para Fyne** que facilita a criação de interfaces dinâmicas baseadas em **linhas e colunas**, com controle inteligente de espaçamento, redimensionamento e posicionamento de widgets.
 
@@ -99,24 +99,8 @@ flow.GlobalGap(10, 10)
 
 ## License
 
-Copyright (c) 2025-2026 Murilo Gomes <profmugomes.com.br>. All Rights Reserved.
+Copyright (c) 2025-2026 Murilo Gomes <profmugomes.com.br>
 
-### Summary
+Licensed under the [MIT](https://github.com/profmugomes/mgsmartflow/blob/main/LICENSE) license.
 
-This software is available for commercial and noncommercial use, subject to the terms of the PolyForm Perimeter License 1.0.1.
-
-You may:
-
-* ✔ Use the software for commercial and noncommercial purposes.
-* ✔ Inspect and study the source code.
-* ✔ Modify the software.
-* ✔ Create derivative works based on the software.
-* ✔ Redistribute the software and permitted modifications.
-
-You may not:
-
-* ✖ Provide a product that competes with the software.
-
-See the full license terms at LICENSE.md.
-
-This summary is provided for convenience only and does not replace or modify the full license terms.
+All contributions to the MGSmartFlow are subject to this license.
