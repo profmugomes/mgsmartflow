@@ -22,7 +22,7 @@ Ele foi projetado para simplificar layouts complexos sem depender apenas dos lay
 ## 📦 Instalação
 
 ```bash
-go get github.com/mugomes/mgsmartflow
+go get github.com/profmugomes/mgsmartflow
 ```
 
 ---
