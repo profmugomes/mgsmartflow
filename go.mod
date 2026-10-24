@@ -1,4 +1,4 @@
-module github.com/profmugomes/mgsmartflow/v2
+module github.com/profmugomes/mgsmartflow/v3
 
 go 1.27.2
 
